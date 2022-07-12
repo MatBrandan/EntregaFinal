@@ -1,0 +1,6 @@
+.footer{
+    background-color: $nav_bg_dk;
+    .btn{
+        @include btnStyle()
+    }
+}
